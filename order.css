@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0px;
+    background-attachment: fixed;
+}
+
+body{
+    background-image: url(kk.jpg);
+    background-position: center;
+    background-size: cover;
+        height: 100vh;
+}
+
+.order-food{
+    text-align: center;
+    justify-content: center;
+    padding: 22px;
+    margin: 10% auto 0;
+    width: 500px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3 green, blue, alpha);
+   border: 20px solid rgb(46, 16, 216) ;
+ 
+}
+
+.order-food h1{
+    color: rgba(197, 13, 13, 0.842);
+    font-size:60px;
+    font-weight: bold;
+}
+
+.order-food p{
+    color: #0e12d3de;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.order-food button{
+    font-size: 25px;
+}
